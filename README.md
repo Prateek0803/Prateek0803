@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and solving problems on leetcode ;).
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and solving problems on leetcode.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at SSGI.
 
@@ -19,7 +19,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | MySQL
+- 💻 &nbsp; Python | Java | C++ 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | NodeJS | ReactJS
 
@@ -71,7 +71,7 @@
 <p align="center">
 
 
-<a href="https://www.linkedin.com/in/prateek08c/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/prateek08c/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-prateek-blue?style=flat-square&logo=linkedin"></a>
 
 
 <a href="mailto:pchatterjee136@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pchatterjee136@gmail.com-blue?style=flat-square&logo=gmail"></a>
