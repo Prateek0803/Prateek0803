@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Prateek</h2>
+### Hi there 👋<h2> I'm Prateek Chatterjee </h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -6,11 +6,9 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and solving problems on leetcode.
+- 🎓 &nbsp; Software Engineer at CrelioHealth.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at SSGI.
-
-- 🌱 &nbsp; Learning about Frontend Development.
+- 🌱 &nbsp; As a software engineer with 2 years of experience, I have honed my skills in building web applications using a variety of technologies. My expertise lies in using React, JavaScript, TypeScript, Python, Django, and MySQL to deliver scalable and high-quality software solutions. I am passionate about creating intuitive and user-friendly interfaces that enhance the user experience.
 
 
 
@@ -19,24 +17,20 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ 
+- 💻 &nbsp; Python | Javascript | 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | NodeJS | ReactJS
-
-<!--
+- 🌐 &nbsp; HTML | CSS | React Query | NodeJS | ReactJS | Typescript
 
 - 🛢 &nbsp; MySQL | MongoDB
 
-- 🔧 &nbsp; Git | Markdown | VSCode 
+- 🔧 &nbsp; Git | VSCode | Vim
 
-
--->
 
 
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Firebase | Redux
+- 🔧 &nbsp; System Design
 
 <hr>
 
