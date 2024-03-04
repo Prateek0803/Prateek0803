@@ -6,9 +6,9 @@
 
 
 
-- 🎓 &nbsp; Software Engineer at CrelioHealth.
+- 🎓 &nbsp; Software Engineer.
 
-- 🌱 &nbsp; As a software engineer with 2 years of experience, I have honed my skills in building web applications using a variety of technologies. My expertise lies in using React, JavaScript, TypeScript, Python, Django, and MySQL to deliver scalable and high-quality software solutions. I am passionate about creating intuitive and user-friendly interfaces that enhance the user experience.
+- 🌱 &nbsp; As a software engineer with 3 years of experience, I have honed my skills in building web applications using a variety of technologies. My expertise lies in using React, JavaScript, TypeScript, Python, Django, MySQL and MERN stack to deliver scalable and high-quality software solutions. I am passionate about creating intuitive and user-friendly interfaces that enhance the user experience.
 
 
 
@@ -19,7 +19,7 @@
 
 - 💻 &nbsp; Python | Javascript | 
 
-- 🌐 &nbsp; HTML | CSS | React Query | NodeJS | ReactJS | Typescript
+- 🌐 &nbsp; HTML | CSS | React Query | NodeJS | ReactJS | Typescript | Redux-toolkit | Redux
 
 - 🛢 &nbsp; MySQL | MongoDB
 
